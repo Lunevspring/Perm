@@ -16,7 +16,7 @@
             <td style="border: 1px solid black"> <i>Длина</i> </td>
             <td style="border: 1px solid black"> <i>15 м</i> </td>
         </tr>
-        <tr style="border: 1px solid black">
+        <tr>
             <td style="border: 1px solid black"> <i>Ширина</i> </td>
             <td style="border: 1px solid black"> <i>5 м</i> </td>
         </tr>
