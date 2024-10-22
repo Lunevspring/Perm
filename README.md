@@ -11,6 +11,7 @@
         <img src ="https://sun9-22.userapi.com/impg/7NmGY1A43uQ35Q4rmUptlWYywvi6E9tORz8_cA/DY5WOvAO7OI.jpg?size=604x452&quality=96&sign=b6585b921c93e8c822ae81fde1be2be9&type=album"/> <br/> Также каждый житель города знает самое красивое время года, когда можно полностью насладиться красотой этого арт-объекта - Весна! Весной происходит сброс воды на ГЭС, из-за чего уровень воды в реке Кама повышается и часть фундамента конструкции погружается под воду, буквы становятся плавающими или левитирующими над водой! </p>
         <img src = "https://sun9-18.userapi.com/impg/TEI7fx6xrIDnlH0ty9clgAPjPM1f5GjisATMUg/GYUGCRpjshk.jpg?size=604x432&quality=96&sign=2eb187d2178cb1f295505a6f260258ec&type=album"/>
         <p> <i>Сколько нужно для счастья:</i></p>
+        <h3> Вот столько! </h3>
         <table style="border: 1px solid black">
         <tr>
             <td style="border: 1px solid black"> <i>Длина</i> </td>
